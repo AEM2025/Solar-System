@@ -19,7 +19,7 @@ A Maya project along with all textures, showcasing my Solar System along with al
 To run the project you need to follow this steps:
 <ol>
   <li> Open Maya(2018 or higher).</li>
-  <li> Nevigate to <i> File->Open Scene</i>.</li>
+  <li> Navigate to <i> File->Open Scene</i>.</li>
   <li> Then choose the path of the project and choose <i>scenes->System_Start.ma</i>.</li>
 </ol>
 
